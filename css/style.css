@@ -1,0 +1,49 @@
+body {
+  padding-right: 18%;
+  padding-left: 18%;
+}
+
+#rpsTitle {
+  text-align: center;
+  font-family: 'Monoton', cursive;
+  color: #F25022;
+}
+
+.gameFont {
+  font-family: 'Monoton', cursive;
+  color: #00a1f1;
+  
+}
+
+.gameFont2 {
+  font-family: 'Monoton', cursive;
+  color: #F25022;
+}
+
+#score { 
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  background-color:black;
+  color: white;
+}
+.container-fluid {
+  margin-right: 20px;
+}
+#Rock{
+  font-family: 'Monoton', cursive;
+}
+#Paper {
+  font-family: 'Monoton', cursive;
+}
+#Scissors {
+  font-family: 'Monoton', cursive;
+}
+#Reset {
+  color: white;
+  font-family: 'Monoton', cursive;
+}
+
+div {
+    margin-bottom: 2%;
+}
